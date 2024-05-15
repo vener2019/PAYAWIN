@@ -10,7 +10,9 @@ import TrackRequest from "../sections/Track-Request.vue";
 
     <Services />
 
+    <TrackRequest />
+    
     <About />
 
-    <TrackRequest />
+    
 </template>
